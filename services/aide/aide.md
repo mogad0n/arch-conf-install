@@ -6,5 +6,5 @@ AIDE is a file integrity checker.
 
 ## Installation and Setup
 
-* Install the AUR package `aide`.
+* Inspect and install the AUR package `aide`.
 * It seems to have sane defaults and the file is heavily commented, it can be found along `/etc/aide.conf`.
