@@ -1,0 +1,3 @@
+-w /etc/passwd -p rwxa
+-w /etc/sudoers -p rwxa
+-w /etc/nftables.conf -p rwxa
